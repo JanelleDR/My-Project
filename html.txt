@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My personal portfolio</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    
+<!-- header section starts  -->
+
+<header>
+
+    <div class="user">
+        <img src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t1.15752-9/285339116_606851200855704_4348927365037649463_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFZuY_-TDozFJCaY99K0_cKjWoji3_hXnONaiOLf-Fec03WWNRiy3odEIjeIdm0Ksm0ZBMV0PZxdA6CEWqYIbeT&_nc_ohc=7-0V7dO5ZYQAX_j18e2&_nc_ht=scontent.fmnl30-1.fna&oh=03_AVJfRIsvGNqf-quVOwyEZ5TBfDsX_icW4uV3H1rWeu5Vdw&oe=62C7D370&dl=1" alt="">
+        <h3 class="name">Janelle Riza P. Delos Reyes</h3>
+      
+        <p class="post">Student</p>
+    </div>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="#home">home</a></li>
+            <li><a href="#about">about</a></li>
+            <li><a href="#education">education</a></li>
+            <li><a href="#portfolio">project</a></li>
+            <li><a href="#contact">contact</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+<!-- header section ends -->
+
+<div id="menu" class="fas fa-bars"></div>
+
+<!-- home section starts  -->
+
+<section class="home" id="home">
+
+    <h3>HI Good Day !</h3>
+    <h1>I'M <span>Janelle Riza P. Delos Reyes</span></h1>
+  <h3>
+    <h3>Hard work produces luck and success.</h3>
+    <p>
+    </p>
+    <a href="#about"><button class="btn">about me <i class="fas fa-user"></i></button></a>
+
+</section>
+
+<!-- home section ends -->
+
+<!-- about section starts  -->
+
+<section class="about" id="about">
+
+<h1 class="heading"> <span>About</span> me</h1>
+
+<div class="row">
+
+    <div class="info">
+        <h3> <span> name : </span> Janelle Riza P. Delos Reyes </h3>
+        <h3> <span> age : </span> 21 </h3>
+        <h3> <span> Birthday : </span> August 18, 2000 </h3>
+      <h3> <span> hobbies: </span> Exercise and health related activities, Arts, music, Gaming, volunteer work </h3>
+        <a href="#"><button class="btn"><a href="https://cdn.fbsbx.com/v/t59.2708-21/286451343_1574778476251179_6113855762673427041_n.docx/Curriculum-Vitae.docx?_nc_cat=109&ccb=1-7&_nc_sid=0cab14&_nc_eui2=AeEUDe1bxZRUsEWjphhYowUzbsSKuQ0yYPluxIq5DTJg-YCz5r8Ogh1tn8SH1UX3G_ywhOIlCrWUtPs-epcanrXC&_nc_ohc=Lt272hTJHUMAX-Qd410&_nc_ht=cdn.fbsbx.com&oh=03_AVLHNnNcxOIhyUOP8yAUQQTeyFHbj9cvoz0eUQlFvgakHQ&oe=62A4C633&dl=1">My CV Download Here!</a>
+    </div>
+
+    <div class="counter">
+
+        <div class="box">
+            <span>Average</span>
+            <h3>Install & Configure Computer System</h3>
+        </div>
+
+        <div class="box">
+            <span>Average</span>
+            <h3>Set-up Computer Network</h3>
+        </div>
+
+        <div class="box">
+            <span>Above Average</span>
+            <h3>MultiTasking</h3>
+        </div>
+
+    </div>
+
+</div>
+
+</section>
+
+<!-- about section ends -->
+
+<!-- education section starts  -->
+
+<section class="education" id="education">
+
+<h1 class="heading"> my <span>educational Attainment</span> </h1>
+
+<div class="box-container">
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>S.Y: 2007-2013</span>
+        <h3>(Elementary)
+          Tenement Elementary School       
+          <h3>Address: Western Bicutan Taguig City
+</p>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>S.Y: 2013-2017</span>
+        <h3>(Junior High School)
+Dr. Arcadio Santos National High School
+<h3>Address: 15 kilometer east west Paranaque city
+</p>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>S.Y: 2017-2019</span>
+        <h3>(Senior High School)
+Asia Source College of Arts and Technology
+<h3>Address: 4/F Gate 3 Plaza Lawton Ave. Cor. Juliano Ave. AFPOVAI Phase III
+Western Bicutan Taguig City
+</p>
+    </div>
+      
+      <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>S.Y: Ongoing</span>
+        <h3>(College)STI Global
+<h3>Adress:STI Academic Center, parkwaydrive, Taguig Metro Manila
+</p>
+    </div>
+      
+
+</section>
+
+<!-- education section ends -->
+
+<!-- portfolio section starts  -->
+
+<section class="portfolio" id="portfolio">
+
+<h1 class="heading"> my <span>Project</span> </h1>
+
+<div class="box-container">
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t1.15752-9/286288709_331824235799318_7443387198342063258_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGZfH6o4oqEinHxAznDZl5Cz78o7MW7cPTPvyjsxbtw9MQ9qgwrXrdZ5ykbgXVBP8F3OMO9p6-mEBH5V4lX2BrW&_nc_ohc=sAtv-lffs3YAX8rBJ7t&_nc_ht=scontent.fmnl30-2.fna&oh=03_AVKZ7pn82jg5o8qBxN8DqMscRUuQwm3WmbGpNPyPNvGETg&oe=62C7F78C&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t1.15752-9/286835038_690482718723481_4908064532377412608_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGoDbIRv-6zvsfPJHuF6lo8WNsE0B2HS3lY2wTQHYdLeW6XXc7X0eo3CuyfYqYouuHlc-SH6yZ5lqoCd6gBD2FW&_nc_ohc=1cBYH6V4iwMAX8pmMuZ&tn=bL5G3hBK-zKh1A2u&_nc_ht=scontent.fmnl30-2.fna&oh=03_AVKFgYj9Nx5R60MbfFvA3zC9O8lJHt08lO7k5l0LeBzIKA&oe=62C87746&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/285970215_5088499581185345_6438688639565328291_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHjgYrNexPn0SyrOy3eff60t29vJ62qAKW3b28nraoApQ9r-pMhU9ftapJLMxIjUXn6eLL55w1KwruzOlo12iaq&_nc_ohc=wmgvbdoAoxoAX-We1Nl&_nc_ht=scontent.fmnl30-3.fna&oh=03_AVLf08DDPg6NM7eybaXaPHIm48wwilFniWm3aZVNPrYSCg&oe=62C86FD5&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t1.15752-9/281716991_297689865817240_7123528929763749429_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFIkRE4tILzQ1mRcQB56r0DD5A3xvGShLkPkDfG8ZKEuZCBBnLopyxDUHnpxb3IwO9jIqHpRAmsboSZvshkoqMM&_nc_ohc=ZKhq-Ke96XsAX_izCo0&_nc_ht=scontent.fmnl30-2.fna&oh=03_AVKhgaFSoEgaqbsaOCaP6uvnqydt1zi8GG7dP3YF4dOVtA&oe=62C6CD0A&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t1.15752-9/285864179_566508568401680_5940274659875040077_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeG76nxsOIZYSvH46VJ7bXCyu6zagW2PU8-7rNqBbY9Tzy4lZFyIBRsH3PCNBqLd6_2suHEOCPhgtiQI-4FJSYGw&_nc_ohc=duACxYK_ekwAX9osSVV&_nc_ht=scontent.fmnl30-2.fna&oh=03_AVIejFArT3R6fplksmtH0ZfZShmgbjXM6eqVxXZpyi_BEg&oe=62C79B21&dl=1" alt="">
+    </div>
+
+</div>
+
+</section>
+
+<!-- portfolio section ends -->
+<!-- certificates section starts  -->
+
+<section class="portfolio" id="portfolio">
+
+<h1 class="heading"> my <span>Award/Seminar Certificates</span> </h1>
+
+<div class="box-container">
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/284635260_731154794676932_4833413603061281521_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGq922ThxHJap84qzZHz72X2Z3QJfTPbPrZndAl9M9s-oL5mw7bSyIS1uxIFx9JqiE_baDIKPaZsYa1NjX-v0Pq&_nc_ohc=HWpL5zsI7DwAX9O51Nw&_nc_ht=scontent.fmnl30-3.fna&oh=03_AVLStGUmfZa3O9QDU18XCrQouiyhag17-PxTq6_GYIs4OA&oe=62C3FD6A&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t1.15752-9/285264297_1192132881603139_1296900134760531620_n.png?stp=dst-png_p1080x2048&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFl1jziiowwnuRAhiRb-g6WeMXencsTd-l4xd6dyxN36fx1pzM03NvOO6jOit8MlJ3LroWVHwWYdfTSUp66mdyv&_nc_ohc=BaL4NbllgukAX-VUtWn&_nc_oc=AQlLts_hkvewHPDJLEFL6zq0-AGCfIpVRih2_xM5KFCy1mYoFXfpKHiFBmH59CzZHZE&_nc_ht=scontent.fmnl30-1.fna&oh=03_AVImv4gzDsfaTaB9v_RTVvEVK9_mIcuipoqEkF-shG-pbQ&oe=62C47E6C&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t1.15752-9/285102737_737907710737798_8130202863169487075_n.png?stp=dst-png_s2048x2048&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHp__b_0MPMjHdWm8mEnd7FFLHz8FRFJi8UsfPwVEUmL1J0gdJ-FkHUVVTfYw3Yjmc6oSGnDx67w4_QqistJe4i&_nc_ohc=7W6ilX1orT8AX9h7Mtv&_nc_ht=scontent.fmnl30-2.fna&oh=03_AVL8NfrXAO-NK_a0WkBoJJvEXjAnLvJEAqxyHrc1aKNpvQ&oe=62C204A0&dl=1" alt="">
+    </div>
+
+    <div class="box">
+        <img src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/285112886_610646566849106_5668681108305601721_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeG98CPN1uH2cln78gbVhSwpZ4B5T0KE63dngHlPQoTrd6_bgQoFXughPI7flvrDamxboJ0YGXep7mIQ3eTNEyx7&_nc_ohc=Tk7HX5A9KM0AX8lbLSJ&_nc_ht=scontent.fmnl30-3.fna&oh=03_AVLzjVMbVTcuAp4gVb1-m6FSQF90AbRAg9NPHNlaFRjl4A&oe=62C4343E&dl=1" alt="">
+    </div>
+
+</div>
+
+</section>
+
+<!-- certificates section ends -->
+
+<!-- contact section starts  -->
+
+<section class="contact" id="contact">
+
+<h1 class="heading"> <span>contact</span> me </h1>
+
+<div class="row">
+
+    <div class="content">
+
+        <h3 class="title">contact info</h3>
+
+        <div class="info">
+            <h3> <i class="fas fa-envelope"></i> janellerizadelosreyes@gmail.com </h3>
+            <h3> <i class="fas fa-phone"></i> 0929 794 4313 </h3>
+            <h3> <i class="fas fa-phone"></i> 0956 816 9603 </h3>
+            <h3> <i class="fas fa-map-marker-alt"></i> Metro Manila Taguig City </h3>
+        </div>
+
+    </div>
+
+    <form action="">
+
+        <input type="text" placeholder="name" class="box">
+        <input type="email" placeholder="email" class="box">
+        <input type="text" placeholder="subject" class="box">
+        <textarea name="" id="" cols="30" rows="10" class="box message" placeholder="message"></textarea>
+        <button type="submit" class="btn"><a href = "mailto: janellerizadelosreyes@gmail.com">Send</a><i class="fas fa-paper-plane"></i> </button>
+
+    </form>
+
+</div>
+
+</section>
+
+<!-- contact section ends -->
+      
+<!-- footer section starts -->
+<footer>
+        <span> Created By <a href="#">Delos Reyes, JR</a> | <span class ="far fa-copyright"></span> 2022 All rights reserved.</span>
+<footer>
+<!-- footer section ends -->
+  
+<!-- scroll top button  -->
+
+<a href="#home" class="top">
+    <img src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/285696268_749044132799375_6426002006030667520_n.png?stp=cp0_dst-png&_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFg4lrZ6QjSW78jdgpfluaI4x5CAkNCdozjHkICQ0J2jBKiqS6k9ZFxi9dg9us5uLzjar_jvVKtZ1xAtaHkf0ki&_nc_ohc=q2lBbr5KVGgAX9Bv_Wt&_nc_ht=scontent.fmnl30-3.fna&oh=03_AVIy75CvdekY4RbV6VOt039JMl9umlGn8IzNyclicd5r1A&oe=62C722C9&dl=1" alt="">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- jquery cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="js/script.js"></script>
+
+
+</body>
+</html>
